@@ -15,7 +15,7 @@ For the 250GB total, I think we just need 2 partitions.
 - (data partition) sized at 196GB
 - Swap space should be 4GB
 
-Below are the values for the partitions.  The structure mirrors what was sent as part of the disk utility printout supplies on 10/13/15 by Srinivas.
+Below are the values for the partitions.  The structure mirrors what was sent as part of the disk utility printout supplies on 10/13/15 by Srinivas.  The structure can be mirrored excatly, but the values changed as detailed below.
 
 -
     ```sh 
