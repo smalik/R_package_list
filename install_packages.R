@@ -10,5 +10,5 @@ if(length(args) == 0) {
 }
 
 .libPaths(path)
-plist <- read.csv('https://github.com/smalik/R_package_list/blob/master/packages.csv', stringsAsFactors=FALSE, header=TRUE)
+plist <- read.csv('https://raw.githubusercontent.com/smalik/R_package_list/master/packages.csv', stringsAsFactors=FALSE, header=TRUE)
 install.packages(plist[,1])
